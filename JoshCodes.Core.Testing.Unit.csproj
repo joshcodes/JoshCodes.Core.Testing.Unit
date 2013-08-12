@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="DictionaryExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UriExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\JoshCodes.Core\JoshCodes.Core.csproj">
